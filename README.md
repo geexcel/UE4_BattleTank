@@ -6,3 +6,4 @@ An open-world head to head tank game with simple AI, terrain and advanced contro
 ## Sub heading example
 
 * Test commit following completion of Game Design Document (GDD)
+* Setup a GitHub "Repo" for online backups
